@@ -1,2 +1,1 @@
-hy2://d1eadcf3f3cb6273@thepirate.lufiadventurethepirate.shop:443/?obfs=salamander&obfs-password=818b3b58&insecure=1#Keyhan
-hy2://d1eadcf3f3cb6273@[2a0a:8dc0:709b::a]:443/?obfs=salamander&obfs-password=818b3b58&insecure=1#Keyhan-ipv6
+hysteria2://2984c4d2-6945-4b45-a7fd-49f4968ed34a@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&sni=thepirate.lufiadventurethepirate.shop#keyhan%20Hysteria2
