@@ -1,2 +1,2 @@
 hysteria2://2984c4d2-6945-4b45-a7fd-49f4968ed34a@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&sni=thepirate.lufiadventurethepirate.shop#keyhan%20Hysteria2
-tuic://2984c4d2-6945-4b45-a7fd-49f4968ed34a:2984c4d2-6945-4b45-a7fd-49f4968ed34a@thepirate.lufiadventurethepirate.shop:50587?congestion_control=cubic&udp_relay_mode=native&sni=thepirate.lufiadventurethepirate.shop&alpn=h3#keyhan%20TUIC
+tuic://2984c4d2-6945-4b45-a7fd-49f4968ed34a:2984c4d2-6945-4b45-a7fd-49f4968ed34a@thepirate.lufiadventurethepirate.shop:50587?congestion_control=cubic&udp_relay_mode=native&sni=thepirate.lufiadventurethepirate.shop&alpn=h3#TUIC
