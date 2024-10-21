@@ -1,2 +1,2 @@
 hysteria2://eb3f2c94-a1c0-4d95-9445-95b0b5c11583@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&sni=thepirate.lufiadventurethepirate.shop#Hysteria2
-tuic://eb3f2c94-a1c0-4d95-9445-95b0b5c11583:eb3f2c94-a1c0-4d95-9445-95b0b5c11583@thepirate.lufiadventurethepirate.shop:50587?congestion_control=cubic&udp_relay_mode=native&sni=thepirate.lufiadventurethepirate.shop&alpn=h3#TUIC
+hysteria2://e8995a5e-11fc-4777-9388-d0b182d82bae@direct.snappdatacenterteam.shop:51974?hiddify=1&obfs=salamander&obfs-password=XUNKSicdiqpnHkVQBvXmN&sni=direct.snappdatacenterteam.shop#%D9%81%D9%82%D8%B7%20%D8%AF%D8%B1%20%D9%85%D9%88%D8%A7%D9%82%D8%B9%20%D8%B6%D8%B1%D9%88%D8%B1%DB%8C
