@@ -1,2 +1,1 @@
 hysteria2://1b9e761c-5895-41c4-bfef-641d7f933850@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&insecure=1&sni=thepirate.lufiadventurethepirate.shop#Ali
-hysteria2://e8995a5e-11fc-4777-9388-d0b182d82bae@direct.snappdatacenterteam.shop:51974?hiddify=1&obfs=salamander&obfs-password=XUNKSicdiqpnHkVQBvXmN&sni=direct.snappdatacenterteam.shop#Urgent
