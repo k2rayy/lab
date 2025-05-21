@@ -1,1 +1,2 @@
 hysteria2://1b9e761c-5895-41c4-bfef-641d7f933850@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&insecure=1&sni=thepirate.lufiadventurethepirate.shop#Ali
+hy2://11b5b73293f1f496@camapurvalupedenver.dcsub.shop:443/?obfs=salamander&obfs-password=06509410&insecure=1#Ali
