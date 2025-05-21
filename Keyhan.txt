@@ -1,2 +1,2 @@
 hysteria2://2984c4d2-6945-4b45-a7fd-49f4968ed34a@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&insecure=1&sni=thepirate.lufiadventurethepirate.shop#Keyhan
-hy2://66c8fece9a0af1e8@camapurvalupedenver.dcsub.shop:443/?obfs=salamander&obfs-password=06509410&insecure=1#Snapp4
+hy2://bbe6939831fa4e76@camapurvalupedenver.dcsub.shop:443/?obfs=salamander&obfs-password=06509410&insecure=1#Keyhan
