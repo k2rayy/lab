@@ -1,2 +1,2 @@
-hysteria2://eb3f2c94-a1c0-4d95-9445-95b0b5c11583@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&insecure=1&sni=thepirate.lufiadventurethepirate.shop#Leila
+hysteria2://eb3f2c94-a1c0-4d95-9445-95b0b5c11583@thepirate.lufiadventurethepirate1.shop:33218?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&sni=thepirate.lufiadventurethepirate1.shop#Leila
 hy2://b5227a352d818dd5@camapurvalupedenver.dcsub.shop:443/?obfs=salamander&obfs-password=06509410&insecure=1#Leila
