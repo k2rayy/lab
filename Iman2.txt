@@ -1,1 +1,1 @@
-hysteria2://bcf99fa4-bc6e-4911-b145-b058fbc8b359@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&insecure=1&sni=thepirate.lufiadventurethepirate.shop#Iman
+hysteria2://bcf99fa4-bc6e-4911-b145-b058fbc8b359@thepirate.lufiadventurethepirate1.shop:33218?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&sni=thepirate.lufiadventurethepirate1.shop#Iman2
