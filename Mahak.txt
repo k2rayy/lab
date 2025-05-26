@@ -1,1 +1,1 @@
-hysteria2://59bc5062-b3ff-46e4-a42c-d58626aaa7c3@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&insecure=1&sni=thepirate.lufiadventurethepirate.shop#Mahak
+hysteria2://59bc5062-b3ff-46e4-a42c-d58626aaa7c3@thepirate.lufiadventurethepirate1.shop:33218?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&sni=thepirate.lufiadventurethepirate1.shop#Mahak
