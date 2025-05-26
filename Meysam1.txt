@@ -1,1 +1,1 @@
-hysteria2://b3b87629-9e6a-4047-a8b8-cd7b00758fd2@thepirate.lufiadventurethepirate.shop:33216?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&insecure=1&sni=thepirate.lufiadventurethepirate.shop#Meysam1
+hysteria2://b3b87629-9e6a-4047-a8b8-cd7b00758fd2@thepirate.lufiadventurethepirate1.shop:33218?hiddify=1&obfs=salamander&obfs-password=oAgCp2Z0rJhaxBHR71AaL3sP&sni=thepirate.lufiadventurethepirate1.shop#Meysam1
