@@ -1,1 +1,1 @@
-hy2://e875df714f379d21@camapurvalupedenver.dcsub.shop:443/?obfs=salamander&obfs-password=06509410&insecure=1#Jalal
+hy2://e875df714f379d21@camapurvalupedenver.dcsub1.shop:443/?obfs=salamander&obfs-password=06509410&insecure=1#Jalal
