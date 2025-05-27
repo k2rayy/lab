@@ -1,1 +1,1 @@
-hy2://0bbf342abad1f65b@camapurvalupedenver.dcsub.shop:443/?obfs=salamander&obfs-password=06509410&insecure=1#Mohsen
+hy2://0bbf342abad1f65b@camapurvalupedenver.dcsub1.shop:443/?obfs=salamander&obfs-password=06509410&insecure=1#Mohsen
